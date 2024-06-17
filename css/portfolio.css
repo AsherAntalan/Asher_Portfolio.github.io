@@ -5,7 +5,7 @@
 }
 .bgif{
   z-index: -1; 
-  background-image: url('/pics/butterfly.gif'); 
+  background-image: url(../pics/butterfly.gif); 
   background-size: cover;
   background-position: center;
 }
@@ -165,7 +165,7 @@ h3{
   .bgif{
     margin-top: 10rem;
     z-index: -10; 
-    background-image: url('/pics/rain.gif'); 
+    background-image: url(../pics/rain.gif); 
     background-size: cover;
     background-position: center;
   }
